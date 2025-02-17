@@ -4,7 +4,6 @@ import routes from "./routes/index.js"
 import connectDB from "./configs/db.js"
 import bodyParser from "body-parser"
 
-
 // config .env
 dotenv.config()
 
